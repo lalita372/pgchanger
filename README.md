@@ -1,3 +1,11 @@
+## 🎨 Background Color Changer
+
+A small React project built using `usestate` and TailwindCSS.  
+It allows users to change the background color dynamically by clicking on different color buttons (hues).  
+Great for understanding basic state management and Tailwind styling.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
